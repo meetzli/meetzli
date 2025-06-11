@@ -1,16 +1,37 @@
-## Hi there 👋
+# 🌙 meetzli
 
-<!--
-**meetzli/meetzli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m meetzli — a developer passionate about programming languages, language design, and open source technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 Currently Building
+
+[**Veil**](https://github.com/veil-lang/veil)  
+A new programming language from the ground up.  
+Check out the repo for updates, ideas, and ways to contribute!
+
+---
+
+## 🛠️ Languages & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,js,ts,ruby,c,cpp,cs,go,zig,java,python,elixir" alt="Programming Languages" /><br>
+  <strong>COBOL</strong> (yes, really)
+</p>
+
+---
+
+## 💡 Interests
+
+- Programming language theory & implementation
+- Systems programming
+- Open source collaboration
+- Exploring new tech
+
+---
+
+## 📫 Find me around
+
+- Main project: [veil-lang/veil](https://github.com/veil-lang/veil)
+
+---
