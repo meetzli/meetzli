@@ -22,9 +22,7 @@
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+
 
 ### [**🔮 Veil Programming Language**](https://github.com/veil-lang/veil)
 *A new programming language built from the ground up*
@@ -49,36 +47,7 @@
 
 </div>
 
-</td>
-<td width="50%" valign="top">
 
-<div align="center">
-
-**🔮 Veil Syntax**
-
-```rust
-fn greet(name: string) -> string {
-    `Hello, ${name}`
-}
-
-fn main() {
-    print(greet("World"));
-}
-```
-
-<br/>
-
-*Simple, clean, and expressive*
-
-<br/>
-
-<img src="https://avatars.githubusercontent.com/u/196317235?s=120&v=4" alt="Veil Logo" style="border-radius: 10px;"/>
-
-</div>
-
-</td>
-</tr>
-</table>
 
 ---
 
