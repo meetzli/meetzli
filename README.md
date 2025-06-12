@@ -7,7 +7,6 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/meetzli?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6)](https://github.com/meetzli)
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=meetzli.meetzli)](https://github.com/meetzli)
 [![Veil Stars](https://img.shields.io/github/stars/veil-lang/veil?style=for-the-badge&logo=star&logoColor=white&color=FFD700)](https://github.com/veil-lang/veil)
 
 </div>
