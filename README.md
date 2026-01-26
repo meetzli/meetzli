@@ -1,53 +1,45 @@
-<div align="center">
-<h1>🌙 meetzli</h1>
-<p><strong>Software engineer — language design, compilers & web development</strong></p>
+# meetzli
 
-[![GitHub](https://img.shields.io/badge/-meetzli-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meetzli)
-</div>
+Systems Engineer focusing on Rust, compiler design, and high-performance software. 
 
----
-
-## 🚧 Currently
-**Veil** — a compact systems language compiling directly to readable C (no LLVM).  
-Focused on predictable output, small toolchain, and developer ergonomics.
-
-**Short facts**
-- Clean, modern syntax  
-- Strong, ergonomic type system  
-- Zero-cost abstractions and predictable performance  
-- Minimal core — features in libraries
-
-[**Veil repo →**](https://github.com/veil-lang/veil)
+Currently building **Veil**, a systems programming language that transpiles to human-readable C, emphasizing developer ergonomics and predictable performance without LLVM overhead.
 
 ---
 
-## 🧰 Stack
-I split my time between low-level systems work and practical web development.
+### Core Projects
 
-**Languages & systems:** Rust · C · Zig · Go · TypeScript · JavaScript  
-**Web:** Solid.js · Next.js · Vue · Dioxus · Node.js  
-**Tools:** gcc / standard C toolchain · Git · Docker · Neovim · VS Code
+#### [Veil](https://github.com/veil-lang/veil)
+A compact systems language designed for simplicity and small toolchains.
+- Features a custom type system and zero-cost abstractions.
+- Compiles directly to C, ensuring portability and minimal binary size.
 
----
+#### [ByteORM](https://github.com/bytematebot/byteORM)
+An asynchronous ORM for Rust featuring a custom `.bo` schema parser.
+- Built with `pest` for grammar parsing and custom Rust codegen.
+- Focuses on type-safety and developer experience in async environments.
 
-## 🎯 What I do
-- Language & compiler design: syntax, type systems, compiler architecture  
-- Systems engineering: performance, memory safety, predictable builds  
-- Web development: fast frontends and reliable backends  
+#### [Sigil](https://github.com/bytematebot/sigil)
+A declarative, high-performance 2D image synthesis engine.
+- Leverages `tiny-skia` and `cosmic-text` for efficient rendering of dynamic media assets.
+- Designed for low-latency graphics generation.
 
----
-
-## 🌟 Projects
-- **Veil** — compiler + stdlib (active development)  
-- **ByteMate** — Discord bot (community-focused)  
-- More prototypes and tooling on my GitHub
-
----
-
-## 🤝 Contact
-**Discord:** `meetzli`  
-**GitHub:** [github.com/meetzli](https://github.com/meetzli)
+#### [ByteMate](https://bytemate.xyz)
+A high-concurrency Discord bot built with Rust using the `serenity` and `poise` frameworks.
 
 ---
 
-> *Good code is its own best documentation.*
+### Technical Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Rust (Main), C, Zig, TypeScript, Go |
+| **Systems** | Compiler Design, Async Runtimes, Codegen, Memory Management |
+| **Web / UI** | Dioxus, Solid.js, Node.js, TailwindCSS |
+| **Tools** | Neovim, Git, Docker, GCC/Clang, Linux Toolchains |
+
+---
+
+### Contact
+- **Email:** hello@meetz.li
+- **Discord:** meetzli
+- **GitHub:** github.com/meetzli
